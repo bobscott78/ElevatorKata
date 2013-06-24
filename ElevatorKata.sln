@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorKata", "ElevatorKata\ElevatorKata.csproj", "{5DFED842-F850-4DA9-A8D4-5A8A8E16A3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorKata.Tests", "ElevatorKata.Tests\ElevatorKata.Tests.csproj", "{872E20B3-369C-480B-ACC7-E4D4A56CF2A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFED842-F850-4DA9-A8D4-5A8A8E16A3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFED842-F850-4DA9-A8D4-5A8A8E16A3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFED842-F850-4DA9-A8D4-5A8A8E16A3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFED842-F850-4DA9-A8D4-5A8A8E16A3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872E20B3-369C-480B-ACC7-E4D4A56CF2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872E20B3-369C-480B-ACC7-E4D4A56CF2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872E20B3-369C-480B-ACC7-E4D4A56CF2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872E20B3-369C-480B-ACC7-E4D4A56CF2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
